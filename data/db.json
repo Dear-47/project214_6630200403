@@ -1,0 +1,65 @@
+{
+  "data_port": [
+    {
+      "name": "Pongpak Tepee",
+      "wel": "Welcome to Portfolio",
+      "branch": "Computer Science",
+      "des": "My nickname is Dear, and I am currently studying Computer Science. With a strong passion for technology and problem-solving, I am developing skills in programming, algorithms, data structures, and software development. I enjoy working on projects that involve data analysis, machine learning, and web development, as they allow me to apply theoretical knowledge to real-world challenges. My goal is to continuously learn and grow in this dynamic field, contributing to innovative solutions that make a meaningful impact.",
+      "hobbies": "coding personal projects and participating in Hackathons",
+      "major_id": "S05",
+      "oldSchool": "Mairiang Prachasan School",
+      "id": "6630200403"
+    }
+  ],
+  "subject": [
+    {
+      "id": "01999012",
+      "name": "Health for Life",
+      "grade": "A",
+      "credit": 3,
+      "isShow": false
+    },
+    {
+      "id": "01418223",
+      "name": "Data Science and Application Programs",
+      "grade": "A",
+      "credit": 3,
+      "isShow": false
+    },
+    {
+      "id": "01418231",
+      "name": "Data Structures and Algorithms",
+      "grade": "A",
+      "credit": 3,
+      "isShow": false
+    },
+    {
+      "id": "01418211",
+      "name": "Software Construction",
+      "grade": "C+",
+      "credit": 3,
+      "isShow": false
+    },
+    {
+      "id": "01418233",
+      "name": "Computer Architecture",
+      "grade": "A",
+      "credit": 3,
+      "isShow": false
+    },
+    {
+      "id": "01355102",
+      "name": "English for University Life",
+      "grade": "B+",
+      "credit": 3,
+      "isShow": false
+    },
+    {
+      "id": "01174231",
+      "name": "Introduction to Recreation",
+      "grade": "A",
+      "credit": 2,
+      "isShow": false
+    }
+  ]
+}
